@@ -31,13 +31,7 @@
     },
     "external_ids": {
       "type": "object",
-      "description": "Known external IDs for the track.",
-      "properties": {
-        "": [{
-          "type": "string",
-          "description": "The identifier type, for example: 'isrc' - International Standard Recording Code, 'ean' - International Article Number, 'upc' - Universal Product Code"
-        }]
-      }
+      "description": "Known external IDs for the track."
     },
     "external_urls": {
       "type": "object",
