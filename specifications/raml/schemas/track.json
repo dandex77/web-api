@@ -41,13 +41,7 @@
     },
     "external_urls": {
       "type": "object",
-      "description": "Known external URLs for this track.",
-      "properties": {
-        "": [{
-          "type": "string",
-          "description": "The type of the URL, for example: 'spotify' - The Spotify URL for the object."
-        }]
-      }
+      "description": "Known external URLs for this track."
     },
     "href": {
       "type": "string",
