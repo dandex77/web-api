@@ -8,10 +8,7 @@
     },
     "external_urls": {
       "type": "object",
-      "description": "Known external URLs for this user.",
-      "": [{
-        "type": "string"
-      }]
+      "description": "Known external URLs for this user."
     },
     "followers": { "$ref": "followers" },
     "href": {
